@@ -1,5 +1,5 @@
 
-# Aplicativos Frases Nerd
+# Aplicativo Frases Nerd
 
 Um app utilizado para ensinar o desenvolvimento Android com Java.
 
