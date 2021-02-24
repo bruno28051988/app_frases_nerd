@@ -1,5 +1,5 @@
 
-# App Frases Nerd
+# Aplicativos Frases Nerd
 
 Um app utilizado para ensinar o desenvolvimento Android com Java.
 
@@ -14,8 +14,8 @@ Nesse app o usuário clica no botão gerar frase e o sistema gera u
 <br/>
 <img src="https://user-images.githubusercontent.com/72177982/109051548-675b5c00-76b9-11eb-89c5-02b6ececf358.png" width="25%">
 
-# Conteúdos
-_________________________________________________________________
+# Conteúdos
+
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Suporte](#suporte)
@@ -31,19 +31,18 @@ _________________________________________________________________
 
 Para fazer o download do app [clique aqui]().
 
-### Instalação e Permissões 
+### Instalação e Permissões 
 
 - Para que a instalação ocorra de forma satisfatória, copie e cole o arquivo .apk em seu celular e abra-o.
 - Dê conforme exigido.
 
-## Uso
+## Uso
 
 Use esse app para gerar frases de um dos mundos mais legais, o Mundo Nerd.
 
-## Suporte
+## Suporte
 
-Para falar comigo você pode utilizar Redes Sociais abaixo... 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/brunobordin/)
+Para falar comigo você pode utilizar o  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/bruno-bordin-2b675b5b/)
 
 ## Roadmap
 
